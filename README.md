@@ -1,3 +1,7 @@
+# STAC Browser
+
+**Please check out [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) instead**
+
 ## Running
 
 ```bash
